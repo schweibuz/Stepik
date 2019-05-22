@@ -1,8 +1,5 @@
 package com.company.stepik;
 
-import java.io.UnsupportedEncodingException;
-import java.util.Arrays;
-
 class AsciiCharSequence implements CharSequence {
 
     public static void main(String[] args) {

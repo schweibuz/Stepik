@@ -1,6 +1,5 @@
 package com.company.stepik.collections;
 import java.util.*;
-import java.util.function.*;
 
 class Listest {
     public static void main(String[] args) {
