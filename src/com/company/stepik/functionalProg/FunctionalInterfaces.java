@@ -18,7 +18,7 @@ class FunctionalInterfaces {
         myPredicate.apply(5);
         System.out.println(predicate.test(6));
         consumer.accept(3);
-        System.out.println(function.apply(9));
+        System.out.println("Function: " + function.apply(9));
         System.out.println(supplier.get());
         System.out.println(binaryOperator.apply(3,3));
 
